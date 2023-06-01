@@ -1,0 +1,13 @@
+.paragrafo {
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: baseline;
+    align-content: baseline;
+    text-align: justify;
+    border: 100px;
+    font-size: 100%;
+    color: blue;
+    margin: 0%;
+}
